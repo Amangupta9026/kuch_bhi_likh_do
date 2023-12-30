@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341669906363",
+    "project_id": "kuch-bhi-likh-do",
+    "storage_bucket": "kuch-bhi-likh-do.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341669906363:android:60dd15f9a14a35def2269e",
+        "android_client_info": {
+          "package_name": "com.example.kuch_bhi_likh_do"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAswfJY0UhhiIZCF4tRiQPgRFO1Qd3b8ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
